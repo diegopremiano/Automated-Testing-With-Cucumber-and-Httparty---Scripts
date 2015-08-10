@@ -4,4 +4,4 @@ httparty
 gem install httparty
 
 active_support
-gem install active_support
+gem install activesupport
