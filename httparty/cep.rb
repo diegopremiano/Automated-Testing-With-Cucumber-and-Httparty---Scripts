@@ -30,7 +30,7 @@ class CEP
         else
           puts 'localidade incorreto'
         end
-        if dados[4].downcase == parsed_response["uf"]
+        if dados[4].downcase == parsed_response["uf"].downcase
           puts 'UF correto'
         else
           puts 'UF incorreto'
