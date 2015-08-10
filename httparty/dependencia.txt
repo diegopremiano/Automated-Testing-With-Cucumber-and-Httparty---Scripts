@@ -1,0 +1,7 @@
+Instalar o httparty e o active_support
+
+httparty
+gem install httparty
+
+active_support
+gem install active_support
